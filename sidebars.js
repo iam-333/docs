@@ -87,11 +87,12 @@ const sidebars = {
     'learn/use-cases',
     {
       type: 'category',
-      label: 'Roadmap',
+      label: 'IPOs and Smart Contracts',
       items: [
-        'learn/milestones',
-        'learn/features',
-        'learn/releases',
+        'learn/qx',
+        'learn/quottery',
+        'learn/mlm',
+        'learn/random',
       ],
     }
   ],
