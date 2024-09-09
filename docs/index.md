@@ -15,7 +15,7 @@ hide_sidebar: true
 
 # Welcome to Qubic Documentation
 
-Qubic is an innovative platform designed to revolutionize the world of decentralized computing and finance through its quorum-based computer (QBC) system. Whether you're a developer, researcher, or enthusiast, this documentation will guide you through everything you need to know to start building and contributing to the Qubic ecosystem.
+Qubic is an innovative platform designed to revolutionise the world of decentralised computing and finance through its quorum-based computer (QBC) system. Whether you're a developer, researcher, or enthusiast, this documentation will guide you through everything you need to know to start building and contributing to the Qubic ecosystem.
 
 ## Getting Started
 
@@ -28,13 +28,13 @@ Ready to dive in? Start here to learn the basics and set up your environment:
 
 Expand your knowledge of the Qubic platform:
 
-- [Tokenomics](learn/tokenomics.md): Understand the economic model and utility of Qubic Units (QUs) in the ecosystem.
+- [Tokenomics](learn/tokenomics.md): Understand the economic model and utility of $QUBIC in the ecosystem.
 
 - [Useful Proof of Work (uPoW)](learn/upow.md): Discover how uPoW underpins the security and efficiency of the system.
 
 - [Quorum](learn/quorum.md): Explore how Qubic's quorum-based computer system operates.
 
-- [Aigarth](learn/aigarth.md): Learn about Aigarth project being developed on the Qubic network.
+- [Aigarth](learn/aigarth.md): Learn about the Aigarth project being developed on the Qubic network.
 
 ## Developer Resources
 
@@ -77,5 +77,9 @@ Keep up with the latest news, updates, and development milestones:
 - [Qubic Blog](https://blog.qubic.org)
 
 - [Join our Discord](https://discord.gg/qubic)
+
+- [Join our Telegram](https://t.me/qubic_network)
+
+- [Follow us on X](https://twitter.com/_qubic_)
 
 - [GitHub Repository](https://github.com/qubic)
