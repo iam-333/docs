@@ -1,4 +1,4 @@
-# Decision Making (Draft)
+# Decision Making
 
 Qubic operates on a democratic model. Every member of the community has a say in decision making. Community input is essential to maintaining the decentralized nature of Qubic and ensuring its evolution aligns with the needs and wants of its users, with key decisions made collectively by the [Quorum](/learn/quorum). This process ensures that all voices are heard and that the ecosystem evolves in a way that benefits all users.
 
@@ -15,7 +15,7 @@ Decision-making in Qubic involves several steps:
 
 ## Why is the Quorum important?
 
-The quorum ensures that decisions are not made by a small subset of the community. By requiring a minimum level of participation, the quorum ensures that a wide cross-section of the community is represented in each decision.
+The Quorum ensures that decisions are not made by a small subset of the community. By requiring a minimum level of participation, the quorum ensures that a wide cross-section of the community is represented in each decision.
 
 The quorum-based decision-making process in Qubic promotes fairness, transparency, and inclusivity. It gives every computor a say in the project's future and helps to build a more robust and resilient Qubic ecosystem.
 
