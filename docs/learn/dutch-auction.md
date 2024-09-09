@@ -34,9 +34,9 @@ Now we go through line by line and sum up:
 | Charlie             | 90               | 3                       | <span style={{backgroundColor: 'yellow'}}>8 (5+3)</span>             |
 | Bob                 | 7                | 10                      | <span style={{backgroundColor: 'yellow'}}>18 (5 + 3 + 10)</span> |
 
-We exceed the number of available shares (10). The lowest offer still getting shares is 7 QUs
+We exceed the number of available shares (10). The lowest offer still getting shares is 7 $QUBIC
 
 As a result, the final distribution is as followed:
-- Alice gets 5 shares and pays 35 QU
-- Charlie gets 3 shares and pays 21 QU total 
-- Bob gets 2 shares and pays 14 QU total
+- Alice gets 5 shares and pays 35 $QUBIC
+- Charlie gets 3 shares and pays 21 $QUBIC total 
+- Bob gets 2 shares and pays 14 $QUBIC total
