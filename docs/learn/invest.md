@@ -4,7 +4,7 @@ There are several ways to invest in Qubic. This guide will walk you through the 
 
 ## 1. Cryptocurrency Exchanges
 
-The easiest and most common way to invest in Qubic is through cryptocurrency exchanges. Qubic Units (QUs) are now available on several platforms:
+The easiest and most common way to invest in Qubic is through cryptocurrency exchanges. $QUBIC is now available on several platforms:
 
 - [MEXC](https://www.mexc.com/exchange/QUBIC_USDT)
 - [Bitget](https://www.bitget.com/spot/QUBICUSDT)
@@ -25,17 +25,17 @@ For the most up-to-date list of exchanges, please visit the official Qubic websi
 
 ## 2. Create a Qubic Wallet
 
-Regardless of how you choose to invest, you'll need a Qubic wallet to store your QUs:
+Regardless of how you choose to invest, you'll need a Qubic wallet to store your $QUBIC:
 
 1. Create a seed: This is a 55-character lowercase string that acts as your password. For example: `lcehvbvddggkjfnokduyjuiyvkklrvrmsaozwbvjlzvgvfipqpnkkuf`
 
    :::caution
-   Never share your seed with anyone. If you lose it, you lose your Qubic Units (QUs).
+   Never share your seed with anyone. If you lose it, you lose your $QUBIC.
    :::
 
 2. Get your Qubic ID: This is a 60-character string derived from your seed. You can obtain it by adding your seed to the [qubic.li wallet](https://wallet.qubic.li/).
 
-3. Use the [qubic.li wallet](https://wallet.qubic.li/) to manage your QUs: Create a vault and add your seed to interact with Qubic.
+3. Use the [qubic.li wallet](https://wallet.qubic.li/) to manage your $QUBIC: Create a vault and add your seed to interact with Qubic.
 
    :::note
    This is an online wallet, so there are inherent risks. Always ensure you trust the platform you're using and understand the risks involved.
